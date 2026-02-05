@@ -1,0 +1,20 @@
+# Visual Studio / .NET / ASP.NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+*.sln.docstates
+*.csproj.user
+*.rptproj.rsuser
+*.dbmdl
+*.pfx
+*.publishsettings
+node_modules/
+packages/
+wwwroot/lib/
+*.log
+*.tmp
