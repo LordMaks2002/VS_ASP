@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|c:\\users\\hp zbook 15u g5\\desktop\\all\\alldocumentmy\\code\\vs_asp\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36C7E1A9-55BA-4A91-AA54-3B910CA16BF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Models\\Feedback.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:35:55.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T16:32:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:30:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-05T16:14:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:29:59.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T10:27:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:22:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:20:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\HP ZBooK 15u G5\\Desktop\\All\\AllDocumentMy\\code\\VS_ASP\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T17:10:58.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

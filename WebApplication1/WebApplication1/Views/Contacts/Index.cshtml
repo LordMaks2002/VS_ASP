@@ -1,0 +1,40 @@
+﻿@model Feedback
+@{
+    ViewData["Title"] = "Reverse signal";
+}
+
+<h1>Reverse Signal</h1>
+
+<form method="post" asp-controller="Contacts" asp-action="Check">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" class="error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SurName"></label>
+        <input asp-for="SurName" />
+        <span asp-validation-for="SurName" class="error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" type="number" /> 
+        <span asp-validation-for="Age" class="error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" />
+        <span asp-validation-for="Email" class="error"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Message"></label>
+        <textarea asp-for="Message"></textarea>     
+        <span asp-validation-for="Message" class="error"></span>
+    </div>
+
+    <input type="submit" value="Send" />
+</form>
